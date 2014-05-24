@@ -1,0 +1,42 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic"
+      id="rules">
+
+  <info>
+    <link type="guide" xref="index#play"/>
+    <revision version="3.12" date="2014-05-23" status="review"/>
+
+    <credit type="author">
+      <name>Rashi Aswani</name>
+      <email>aswanirashi19@gmail.com</email>
+      <years>2014</years>
+    </credit>
+
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude" />
+
+  </info>
+
+
+  <title>Game rules</title>
+
+  <p><app>Klotski</app> is a puzzle you can solve by sliding blocks to make the
+  patterned block reach the green markers in the minimum number of moves.</p>
+
+  <section id="move block">
+    <title>How to move a block</title>
+    <p>To move a block, click on it, move the block to the desired location,
+    then click on the block again.</p>
+  </section>
+
+ <section id="rules">
+   <title>Rules to move the blocks</title>
+     <list>
+       <item><p>You can not move the green blocks and the boundary
+       blocks.</p></item>
+       <item><p>You can not move over a block with the exception that the
+       patterned block can move across the green blocks.</p></item>
+       <item><p>You can take more than one step in a single move.</p></item>
+    </list>
+ </section>
+
+</page>
