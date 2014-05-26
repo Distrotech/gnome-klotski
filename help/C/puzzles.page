@@ -24,7 +24,7 @@
   <gui style="button">Previous Puzzle</gui> helps you to navigate
   sequentially.</p> 
 
-  <section id="new puzzle">
+  <section id="new-puzzle">
     <title>Play a new Puzzle</title>
       <p>To play a new puzzle:</p>
         <steps>
