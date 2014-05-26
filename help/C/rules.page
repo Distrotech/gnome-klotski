@@ -22,14 +22,14 @@
   <p><app>Klotski</app> is a puzzle you can solve by sliding blocks to make the
   patterned block reach the green markers in the minimum number of moves.</p>
 
-  <section id="move block">
-    <title>How to move a block</title>
+  <section id="move-block">
+    <title>Move a block</title>
     <p>To move a block, click on it, move the block to the desired location,
     then click on the block again.</p>
   </section>
 
  <section id="rules">
-   <title>Rules to move the blocks</title>
+   <title>Rules to move a block</title>
      <list>
        <item><p>You can not move the green blocks and the boundary
        blocks.</p></item>
