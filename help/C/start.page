@@ -1,0 +1,30 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic"
+      id="start">
+
+  <info>
+    <link type="guide" xref="index#play"/>
+    <revision version="3.12" date="2014-05-26" status="review"/>
+
+    <credit type="author">
+      <name>Rashi Aswani</name>
+      <email>aswanirashi19@gmail.com</email>
+      <years>2014</years>
+    </credit>
+
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude" />
+
+  </info>
+
+  <title>Start a new game</title>
+  <p>To start a new game:</p>
+    <steps>
+      <item><p>Click <guiseq><gui style="menu">Gnome-klotski</gui>
+      <gui style="menuitem">New Game</gui></guiseq>. Alternatively, you can
+       click on the <gui style="button">New</gui> button on the top left. It
+       will start a new game of the same puzzle.</p></item>
+       <item><p>You can select a different puzzle by
+       <gui style="button">Puzzles</gui>, choose a category and start a puzzle
+       by double clicking on it.</p></item>
+    </steps>
+</page>
