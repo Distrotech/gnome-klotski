@@ -17,14 +17,15 @@
   </info>
 
   <title>Start a new game</title>
+
   <p>To start a new game:</p>
     <steps>
-      <item><p>Click <guiseq><gui style="menu">Gnome-klotski</gui>
+      <item><p>Select <guiseq><gui style="menu">Gnome-klotski</gui>
       <gui style="menuitem">New Game</gui></guiseq>. Alternatively, you can
-       click on the <gui style="button">New</gui> button on the top left. It
-       will start a new game of the same puzzle.</p></item>
-       <item><p>You can select a different puzzle by
-       <gui style="button">Puzzles</gui>, choose a category and start a puzzle
-       by double clicking on it.</p></item>
+       click on the <gui style="button">Start Over</gui> button in the bottom
+       right. It will start a new game of the same puzzle.</p></item>
+       <item><p>To start a different puzzle, click on the
+       <gui style="button">View Puzzles</gui> button, choose a game category
+       and start a new puzzle by double clicking on it.</p></item>
     </steps>
 </page>
