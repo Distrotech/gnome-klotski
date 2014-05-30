@@ -22,16 +22,16 @@
   Trail</gui>, <gui>Challenge Pack</gui> and <gui>Skill Pack</gui> based on the
   difficulty level of the game. The <gui style="button">Next Puzzle</gui> and
   <gui style="button">Previous Puzzle</gui> helps you to navigate
-  sequentially.</p> 
+  sequentially among the puzzles.</p> 
 
   <section id="new-puzzle">
-    <title>Play a new Puzzle</title>
+    <title>Start a new Puzzle</title>
       <p>To play a new puzzle:</p>
         <steps>
-          <item><p>Click on <gui style="button">Puzzles</gui> on the top
-          left.</p></item>
-          <item><p>You can select a category and a puzzle by double clicking on
-          it.</p></item>
+          <item><p>Click on <gui style="button">View Puzzles</gui> in the
+          bottom right.</p></item>
+          <item><p>You can select a category and start playing a puzzle by
+          double clicking on it.</p></item>
         </steps>
   </section>
 
