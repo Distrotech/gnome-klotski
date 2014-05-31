@@ -20,7 +20,7 @@
 
   <p>To start a new game:</p>
     <steps>
-      <item><p>Select <guiseq><gui style="menu">Gnome-klotski</gui>
+      <item><p>Select <guiseq><gui style="menu">Klotski</gui>
       <gui style="menuitem">New Game</gui></guiseq>. Alternatively, you can
        click on the <gui style="button">Start Over</gui> button in the bottom
        right. It will start a new game of the same puzzle.</p></item>
