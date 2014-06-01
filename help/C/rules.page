@@ -19,8 +19,9 @@
 
   <title>Game rules</title>
 
-  <p><app>Klotski</app> is a puzzle you can solve by sliding blocks to make the
-  patterned block reach the green markers in the minimum number of moves.</p>
+  <p><app>Klotski</app> is a puzzle you can solve by sliding blocks
+  horizontally or vertically to move the patterned block on the green markers
+  in the minimum number of moves.</p>
 
   <section id="move-block">
     <title>Move a block</title>
