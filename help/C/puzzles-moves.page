@@ -22,7 +22,7 @@
   number of moves to solve them and the various positions of the blocks in it.
   You can find the minimum number of moves for the various puzzles below.</p>
   
-  <table rules="rows columns">
+  <table frame="all" rules="rows cols">
     <tr>
       <td><p>Puzzles</p></td> <td><p>Minimum number of moves</p></td>
     </tr>
