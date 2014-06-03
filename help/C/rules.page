@@ -25,8 +25,12 @@
 
   <section id="move-block">
     <title>Move a block</title>
-    <p>To move a block, click on it, move the block to the desired location,
-    then click on the block again.</p>
+      <steps>
+        <item><p>Click on the block to be moved.</p></item> 
+        <item><p>Move the block to the desired location with the help of
+        mouse.</p></item>
+        <item><p>Click on the block again.</p></item>
+      </steps>
   </section>
 
  <section id="rules">
